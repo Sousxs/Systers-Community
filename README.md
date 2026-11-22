@@ -1,6 +1,6 @@
 # Systers Community
 
-Group project for the Object-Oriented Programming course, built during my ADS program at PUC Goiás (2024). The team was [@jhonzito66](https://github.com/jhonzito66), [@PhilipePedrosa](https://github.com/PhilipePedrosa) and me. This repository is a fork of [jhonzito66/POO](https://github.com/jhonzito66/POO).
+Group project for the Object-Oriented Programming course, built during my Computer Science degree at PUC Goiás (2024). The team was [@jhonzito66](https://github.com/jhonzito66), [@PhilipePedrosa](https://github.com/PhilipePedrosa) and me. This repository is a fork of [jhonzito66/POO](https://github.com/jhonzito66/POO).
 
 Systers is a web app where women join discussion groups, write posts and comment. Groups have member roles and moderation, and members can request mentoring and report content.
 
